@@ -1,0 +1,111 @@
+{
+  "project": {
+    "name": "Eco-Pulp Pinang",
+    "tagline": "Pulp Ramah Lingkungan dari Serat Sabut Pinang Sirih",
+    "description": "Valorisasi limbah sabut pinang sirih menjadi bahan baku pulp kertas seni bernilai ekonomi tinggi, sebagai substitusi pulp kayu konvensional.",
+    "institution": "Universitas Brawijaya (Direktorat Inovasi dan Inkubator Bisnis)"
+  },
+  "legal_and_team": {
+    "patent_number": "IDS000006449 B",
+    "patent_status": "Granted",
+    "patent_category": "Material & Green Technology",
+    "inventors": [
+      "Ika Atsari Dewi, S.TP., M.P.",
+      "Dr. Ir. Susinggih Wijana, M.S.",
+      "Elce Velenia Rembet, S.TP."
+    ],
+    "pic_email": "ikaatsaridewi@ub.ac.id"
+  },
+  "technical_parameters": {
+    "raw_material": {
+      "name": "Sabut Pinang Sirih (Areca catechu L.)",
+      "composition_raw": {
+        "cellulose": ">50%",
+        "hemicellulose": "~30%",
+        "lignin": "7-26%",
+        "lignin_type": "GHS-type (tricin monomers)"
+      },
+      "supply_chain_requirement": "Kadar air maksimal <15% pra-pengiriman"
+    },
+    "process": {
+      "method": "Delignifikasi Alkalin (Optimasi RSM)",
+      "chemical": "NaOH",
+      "concentration": "24-25%",
+      "temperature": "100°C",
+      "duration": "90 Menit"
+    },
+    "output_quality": {
+      "cellulose_final": "46.6%",
+      "cellulose_increase_from": "45.7%",
+      "lignin_final": "7.62%",
+      "lignin_decrease_from": "15.9%"
+    },
+    "trl": "4-5 (Pasca-Lab/Skala Pilot)"
+  },
+  "market_and_problem": {
+    "problem": {
+      "national_demand_deficit": "4 Juta Ton/Tahun",
+      "import_volume": "3 Juta Ton/Tahun",
+      "conventional_co2_emission": "~950 kg CO2-equivalent per ton kertas"
+    },
+    "opportunity": {
+      "indonesia_pinang_production": "83.211 Ton (2023, Ke-4 Terbesar Dunia)",
+      "waste_percentage": "60-70% dari berat buah adalah sabut yang terbuang"
+    },
+    "market_size": {
+      "green_packaging_global": "USD 285 - 362 Miliar (CAGR 5.8-8.2%)",
+      "specialty_paper_global": "USD 23.9 - 57.6 Miliar",
+      "handmade_paper_target": "USD 4.1 Miliar (CAGR 7.4%)"
+    },
+    "drivers": [
+      "Pelarangan plastik sekali pakai di >60 negara",
+      ">60% konsumen global memilih kemasan biodegradable",
+      "Tuntutan sertifikasi ESG korporasi"
+    ]
+  },
+  "unique_value_proposition": [
+    {
+      "title": "Substitusi 100% Non-Kayu",
+      "description": "Menyelamatkan hutan dan menurunkan emisi karbon dengan mengolah limbah sabut pinang berlimpah yang sebelumnya tidak memiliki nilai tambah."
+    },
+    {
+      "title": "Kualitas Selulosa Teruji",
+      "description": "Formulasi paten 25% NaOH secara efektif menghancurkan lignin hingga 7.62% tanpa merusak struktur selulosa (46.6%), cocok untuk kertas seni premium."
+    },
+    {
+      "title": "Terlindungi Secara Hukum",
+      "description": "Teknologi ini telah memperoleh sertifikat Paten Granted (IDS000006449 B), memberikan keamanan eksklusivitas bagi investasi mitra industri."
+    }
+  ],
+  "commercialization_models": [
+    {
+      "type": "Model A (Lisensi Paten)",
+      "risk": "Rendah",
+      "mechanism": "Pabrik existing membayar royalti untuk mengadopsi SOP tersertifikasi."
+    },
+    {
+      "type": "Model B (Joint Venture Mini Mill)",
+      "risk": "Tinggi, Return Tertinggi",
+      "mechanism": "Membangun pabrik pengolahan baru di sentra pinang dengan kapasitas 500-2000 ton/tahun."
+    },
+    {
+      "type": "Model C (Contract Manufacturing)",
+      "risk": "Menengah (Fleksibel)",
+      "mechanism": "Mitra memproduksi sesuai SOP, bagi hasil proporsional per volume output."
+    }
+  ],
+  "risk_mitigation": [
+    {
+      "risk": "Kimia (NaOH 25% Korosif)",
+      "mitigation": "Sistem closed-loop dosing, bunding anti-tumpahan, APD K3."
+    },
+    {
+      "risk": "Lingkungan (Limbah Black Liquor pH>12)",
+      "mitigation": "Recovery Boiler (Skala Besar) atau Presipitasi Lignin sebagai adhesif (Skala Menengah)."
+    },
+    {
+      "risk": "Rantai Pasok Sabut",
+      "mitigation": "Kemitraan inti-plasma BUMDes sebagai hub pengumpul daerah."
+    }
+  ]
+}
